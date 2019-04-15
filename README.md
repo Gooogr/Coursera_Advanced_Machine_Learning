@@ -1,5 +1,7 @@
 # AML
 
+https://drive.google.com/drive/folders/1IAlYDIMAYd6J797MZmNFJ_uEst079bSl
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
 Дополнительные ресурсы:
 
 COGNITIVE CLASS 'Deep Learning with TensorFlow'
