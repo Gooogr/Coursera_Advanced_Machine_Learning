@@ -1,4 +1,4 @@
-#  Материалы специализации Advanced Machine Learning (Coursera)
+###  Материалы специализации Advanced Machine Learning (Coursera)
 **Содержание специализации:**
 * Introduction to Deep Learning
 * How to Win a Data Science Competition: Learn from Top Kagglers 
