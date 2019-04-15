@@ -1,12 +1,17 @@
-# AML
+#  Материалы специализации Advanced Machine Learning (Coursera)
+**Содержание специализации:**
+* Introduction to Deep Learning
+* How to Win a Data Science Competition: Learn from Top Kagglers 
+* Bayesian Methods for Machine Learning
+* Practical Reinforcement Learning
+* Deep Learning in Computer Vision
+* Обработка текстов, написанных на естественных языках
+* Addressing Large Hadron Collider Challenges by Machine Learning
+
+[![Open files In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1IAlYDIMAYd6J797MZmNFJ_uEst079bSl)
 
 
-
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1IAlYDIMAYd6J797MZmNFJ_uEst079bSl)
-
-
-Дополнительные ресурсы:
+**Дополнительные ресурсы:**
 
 COGNITIVE CLASS 'Deep Learning with TensorFlow'
 https://cognitiveclass.ai/courses/deep-learning-tensorflow/
