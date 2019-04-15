@@ -8,7 +8,7 @@
 * Обработка текстов, написанных на естественных языках
 * Addressing Large Hadron Collider Challenges by Machine Learning
 
-[![Open files In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1IAlYDIMAYd6J797MZmNFJ_uEst079bSl)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1IAlYDIMAYd6J797MZmNFJ_uEst079bSl)
 
 
 **Дополнительные ресурсы:**
