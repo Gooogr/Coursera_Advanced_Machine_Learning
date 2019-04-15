@@ -1,4 +1,6 @@
 ###  Материалы специализации Advanced Machine Learning (Coursera)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1IAlYDIMAYd6J797MZmNFJ_uEst079bSl)
+
 **Содержание специализации:**
 * Introduction to Deep Learning
 * How to Win a Data Science Competition: Learn from Top Kagglers 
@@ -7,9 +9,6 @@
 * Deep Learning in Computer Vision
 * Обработка текстов, написанных на естественных языках
 * Addressing Large Hadron Collider Challenges by Machine Learning
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1IAlYDIMAYd6J797MZmNFJ_uEst079bSl)
-
 
 **Дополнительные ресурсы:**
 
