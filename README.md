@@ -12,8 +12,8 @@
 
 **Дополнительные ресурсы:**
 
-COGNITIVE CLASS 'Deep Learning with TensorFlow'
-https://cognitiveclass.ai/courses/deep-learning-tensorflow/
+CognitiveClass.ai ['Deep Learning with TensorFlow'](https://cognitiveclass.ai/courses/deep-learning-tensorflow/)
+
 
 YouTube курс 'Deep Learning' sim0nsays
 https://www.youtube.com/playlist?list=PL5FkQ0AF9O_pTeRf6UjyfnsRbMyema6I3
